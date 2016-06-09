@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/dwdraju/bloom-node-redis#readme",
   "dependencies": {
+    "async": "^2.0.0-rc.6",
     "bloom-redis": "0.0.1",
+    "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "redis": "^2.6.1"
   }
