@@ -1,0 +1,24 @@
+{
+  "name": "bloom-node-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwdraju/bloom-node-redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwdraju/bloom-node-redis/issues"
+  },
+  "homepage": "https://github.com/dwdraju/bloom-node-redis#readme",
+  "dependencies": {
+    "bloom-redis": "0.0.1",
+    "express": "^4.13.4",
+    "redis": "^2.6.1"
+  }
+}
